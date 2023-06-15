@@ -47,7 +47,7 @@ cmake ..
 make
 ```
 
-Note that we will fetch repo `https://github.com/guo-han/motion-matching` when building this project. Make sure to fetch the **most recent version** of master branch. Some of our developments are done in that repository.
+Note that we will fetch repo [https://github.com/guo-han/motion-matching](https://github.com/guo-han/motion-matching) when building this project. Make sure to fetch the **most recent version** of master branch. Some of our developments are done in that repository.
 ## Dataset
 The dataset we used for constructing matching database is [LAFAN1](https://github.com/ubisoft/ubisoft-laforge-animation-dataset). But you do not need to redownload and process the dataset yourself. All necessary data have been added into this directory under the `/data` folder.
 ## Functionalities
