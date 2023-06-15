@@ -16,7 +16,7 @@
 <p align="center">
 </p>
 <br>
-
+![](https://github.com/Ribosome-rbx/otion-Matching-for-Human-Skeleton/tree/main/resource/gif/logo.gif)
 <details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-style: solid; border-width: 1px;'>
   <summary>Table of Contents</summary>
   <ol>
@@ -66,7 +66,7 @@ When checking the `Paint trajectory` box in the application UI, we can use mouse
 
 <details>
   <summary>[Demo for drawed trajectory (click to expand)]</summary>
-
+  ![](https://github.com/Ribosome-rbx/otion-Matching-for-Human-Skeleton/tree/main/resource/gif/draw_line.gif)
 </details>
 
 ### Human Pose Control
@@ -76,28 +76,30 @@ We utilized [FastPose](https://drnoodle.github.io/fastpose_html/) to capture hum
 
 <details>
   <summary>[Demo for human pose control (click to expand)]</summary>
-  
+  ![](https://github.com/Ribosome-rbx/otion-Matching-for-Human-Skeleton/tree/main/resource/gif/pose.gif)
 </details>
 
 ### Camera Trcking Mode
 This mode is designed for "Human Pose Control", since one can no longer modify view directions by mouse. To use this mode, check the "Track Velocity" box in "Camera" hidden menu. Then, the window view will change following the velocity direction.
-
+![](https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/tree/main/resource/img/camera.png)
 
 ### External Terrain Object Loading
 To run motion matching with different terrains, open the "Ground" hidden menu. Select from the drop down menu of "Terrain".
+![](https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/tree/main/resource/img/terrain.png)
 
 
 
 
 ## Example Demos
 Basic Square terrain
-<!-- | walk |  run  | creep | dance|
-| :------------------------------: |:------------------------------: |:-----------------------------------------------: | :-----------------------------------------------: |
-|<img align="center"  src="./resource/white_walk.gif" width="150">| <img align="center"  src="./resource/white_run.gif" width="150">|<img align="center"  src="./resource/white_creep.gif" width="150"> | <img align="center"  src="./resource/white_dance.gif" width="150">| -->
+| walk |  run  |
+| :------------------------------: |:------------------------------: |
+|<img align="center"  src="./resource/gif/white_walk.gif" width="150">| <img align="center"  src="./resource/gif/white_run.gif" width="150">|
 
 
-https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/assets/61586121/90cc8411-9235-4ab9-8fb5-e61047d1c877
-
+| creep |  dance  |
+| :------------------------------: |:------------------------------: |
+|<img align="center"  src="./resource/gif/white_creep.gif" width="150"> | <img align="center"  src="./resource/gif/white_dance.gif" width="150">|
 
 
 <!-- <img align="center"  src="./resource/white_walk.gif" width="150">
@@ -107,9 +109,14 @@ https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/assets/615861
 
 Forrest terrain
 
-| walk |  run  | creep | jump|
-| :------------------------------: |:------------------------------: |:-----------------------------------------------: | :-----------------------------------------------: |
-|<img align="center"  src="./resource/forest_walk.gif" width="150">| <img align="center"  src="./resource/forest_run.gif" width="150">|<img align="center"  src="./resource/forest_creep.gif" width="150">| <img align="center"  src="./resource/forest_jump.gif" width="150">|
+| walk |  run  |
+| :------------------------------: |:------------------------------: |
+|<img align="center"  src="./resource/gif/forest_walk.gif" width="150">| <img align="center"  src="./resource/gif/forest_run.gif" width="150">|
+
+
+| jump |  creep  |
+| :------------------------------: |:------------------------------: |
+|<img align="center"  src="./resource/gif/forest_jump.gif" width="150"> | <img align="center"  src="./resource/gif/forest_creep.gif" width="150">|
 
 <!-- <img align="center"  src="./resource/forest_walk.gif" width="150">
 <img align="center"  src="./resource/forest_run.gif" width="150">
