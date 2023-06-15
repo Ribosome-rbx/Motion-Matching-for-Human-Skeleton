@@ -58,7 +58,7 @@ make
 
 Note that we will fetch repo [https://github.com/guo-han/motion-matching](https://github.com/guo-han/motion-matching) when building this project. Make sure to fetch the **most recent version** of master branch. Some of our developments are done in that repository.
 ## Dataset
-The dataset we used for constructing matching database is [LAFAN1](https://github.com/ubisoft/ubisoft-laforge-animation-dataset). But you do not need to redownload and process the dataset yourself. All necessary data have been added into this directory under the `/data` folder.
+The dataset we used for constructing matching database is [LAFAN1](https://github.com/ubisoft/ubisoft-laforge-animation-dataset). But you do not need to redownload and process the dataset yourself. All necessary data have been added into this directory under the [./data](https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/tree/main/data) folder.
 ## Functionalities
 Users can control the digital character using keyboard control, drawed trajectory or human pose input from camera. Details are elaborated below.
 
@@ -68,10 +68,10 @@ To start the motion matching, you should press the space key after the applicati
 |:-:|:-:|
 |W, S, A, D, <br>W+A, W+D, S+A, S+D|controll the character's movement in eight directions <br> once keys pressed, the character will move along the given direction|
 |up arrow key↑, <br> down arrow key↓|increase, decrease the forward speed <br> the speed willl increase/decrease by 0.3 every time the key is pressed|
-|left Shift|sprint<br> once key pressed, the character starts dashing; once key released, it will return to normal speed|
-|J|jump<br> once key pressed, the character jumps; once key released, the character stops jumping|
-|C|creep<br> once key pressed, the character creeps; once key released, the character stops creeping|
-|P|dance<br> once key pressed, the character starts dancing; when the key is pressed again, the character stops dancing|
+|left Shift|sprint<br> once key pressed, the character starts dashing; <br> once key released, it will return to normal speed|
+|J|jump<br> once key pressed, the character jumps; <br>once key released, the character stops jumping|
+|C|creep<br> once key pressed, the character creeps; <br>once key released, the character stops creeping|
+|P|dance<br> once key pressed, the character starts dancing; <br>when the key is pressed again, the character stops dancing|
 |Space|Pause/Start Program|
 
 ### Drawed Trajectory
@@ -97,7 +97,7 @@ We utilized [FastPose](https://drnoodle.github.io/fastpose_html/) to capture hum
 </details>
 
 ### Camera Trcking Mode
-This mode is designed for "Human Pose Control", since one can no longer modify view directions by mouse. To use this mode, check the "Track Velocity" box in "Camera" hidden menu. Then, the window view will change following the velocity direction.
+This mode is designed for "Human Pose Control", since one can no longer modify view directions by mouse. To use this mode, check the `Track Velocity` box in `Camera` hidden menu. Then, the window view will change following the velocity direction.
 
 ![](./resource/img/camera.png)
 
