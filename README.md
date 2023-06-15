@@ -18,7 +18,7 @@
 <br>
 
 
-![](https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/tree/main/resource/gif/logo.gif)
+![](./resource/gif/logo.gif)
 
 
 <details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-style: solid; border-width: 1px;'>
@@ -106,12 +106,12 @@ To run motion matching with different terrains, open the "Ground" hidden menu. S
 Basic Square terrain
 | walk |  run  |
 | :------------------------------: |:------------------------------: |
-|<img align="center"  src="./resource/gif/white_walk.gif" width="150">| <img align="center"  src="./resource/gif/white_run.gif" width="150">|
+|<img align="center"  src="./resource/gif/white_walk.gif" width="300">| <img align="center"  src="./resource/gif/white_run.gif" width="300">|
 
 
 | creep |  dance  |
 | :------------------------------: |:------------------------------: |
-|<img align="center"  src="./resource/gif/white_creep.gif" width="150"> | <img align="center"  src="./resource/gif/white_dance.gif" width="150">|
+|<img align="center"  src="./resource/gif/white_creep.gif" width="300"> | <img align="center"  src="./resource/gif/white_dance.gif" width="300">|
 
 
 <!-- <img align="center"  src="./resource/white_walk.gif" width="150">
@@ -123,12 +123,12 @@ Forrest terrain
 
 | walk |  run  |
 | :------------------------------: |:------------------------------: |
-|<img align="center"  src="./resource/gif/forest_walk.gif" width="150">| <img align="center"  src="./resource/gif/forest_run.gif" width="150">|
+|<img align="center"  src="./resource/gif/forest_walk.gif" width="300">| <img align="center"  src="./resource/gif/forest_run.gif" width="300">|
 
 
 | jump |  creep  |
 | :------------------------------: |:------------------------------: |
-|<img align="center"  src="./resource/gif/forest_jump.gif" width="150"> | <img align="center"  src="./resource/gif/forest_creep.gif" width="150">|
+|<img align="center"  src="./resource/gif/forest_jump.gif" width="300"> | <img align="center"  src="./resource/gif/forest_creep.gif" width="300">|
 
 <!-- <img align="center"  src="./resource/forest_walk.gif" width="150">
 <img align="center"  src="./resource/forest_run.gif" width="150">
