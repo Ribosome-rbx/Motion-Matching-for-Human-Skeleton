@@ -84,7 +84,7 @@ This mode is designed for "Human Pose Control", since one can no longer modify v
 
 
 ### External Terrain Object Loading
-To run motion matching with different terrains, open the "Ground" hidden men. Select from the drop down menu of "Terrain".
+To run motion matching with different terrains, open the "Ground" hidden menu. Select from the drop down menu of "Terrain".
 
 
 
