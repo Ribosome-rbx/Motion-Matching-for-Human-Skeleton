@@ -128,7 +128,6 @@ public:
         ImGui::Begin("Main Menu");
         if (ImGui::CollapsingHeader("Motion Control options", ImGuiTreeNodeFlags_DefaultOpen)) {
             ImGui::InputDouble("Speed forward", &motionMatching->speedForward, 0.0f, 0.0f, "%.3f", ImGuiInputTextFlags_ReadOnly);
-            ImGui::InputDouble("Speed turning", &motionMatching->turningSpeed, 0.0f, 0.0f, "%.3f", ImGuiInputTextFlags_ReadOnly);
             ImGui::Checkbox("Paint trajectory", &drawTrajMode);
             if (ImGui::Button("Clear Painting")) {
                 hitPoints.clear();
