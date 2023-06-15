@@ -1,1 +1,18 @@
-build/*
+build
+CMakeLists.txt.user
+.DS_Store
+data/out
+
+# imgui
+*.ini
+
+# clion
+.idea/
+cmake-build-*/
+
+# vscode
+.vscode
+.devcontainer
+
+# clang
+clang

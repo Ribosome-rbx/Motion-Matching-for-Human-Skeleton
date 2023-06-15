@@ -47,7 +47,7 @@ cmake ..
 make
 ```
 
-Note that we will fetch repo `https://github.com/guo-han/motion-matching` when building this project. Make sure to fetch the **most recent version** of master branch. Some of our developments are done in that repository.
+Note that we will fetch repo [https://github.com/guo-han/motion-matching](https://github.com/guo-han/motion-matching) when building this project. Make sure to fetch the **most recent version** of master branch. Some of our developments are done in that repository.
 ## Dataset
 The dataset we used for constructing matching database is [LAFAN1](https://github.com/ubisoft/ubisoft-laforge-animation-dataset). But you do not need to redownload and process the dataset yourself. All necessary data have been added into this directory under the `/data` folder.
 ## Functionalities
@@ -85,6 +85,31 @@ This mode is designed for "Human Pose Control", since one can no longer modify v
 
 ### External Terrain Object Loading
 To run motion matching with different terrains, open the "Ground" hidden men. Select from the drop down menu of "Terrain".
+
+
+
+
+## Example Demos
+Basic Square terrain
+| walk |  run  | creep | dance|
+| :------------------------------: |:------------------------------: |:-----------------------------------------------: | :-----------------------------------------------: |
+|<img align="center"  src="./resource/white_walk.gif" width="150">| <img align="center"  src="./resource/white_run.gif" width="150">|<img align="center"  src="./resource/white_creep.gif" width="150"> | <img align="center"  src="./resource/white_dance.gif" width="150">|
+
+<!-- <img align="center"  src="./resource/white_walk.gif" width="150">
+<img align="center"  src="./resource/white_run.gif" width="150">
+<img align="center"  src="./resource/white_creep.gif" width="150">
+<img align="center"  src="./resource/white_dance.gif" width="150"> -->
+
+Forrest terrain
+
+| walk |  run  | creep | jump|
+| :------------------------------: |:------------------------------: |:-----------------------------------------------: | :-----------------------------------------------: |
+|<img align="center"  src="./resource/forest_walk.gif" width="150">| <img align="center"  src="./resource/forest_run.gif" width="150">|<img align="center"  src="./resource/forest_creep.gif" width="150">| <img align="center"  src="./resource/forest_jump.gif" width="150">|
+
+<!-- <img align="center"  src="./resource/forest_walk.gif" width="150">
+<img align="center"  src="./resource/forest_run.gif" width="150">
+<img align="center"  src="./resource/forest_jump.gif" width="150">
+<img align="center"  src="./resource/forest_creep.gif" width="150"> -->
 
 
 
