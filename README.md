@@ -80,8 +80,13 @@ We utilized [FastPose](https://drnoodle.github.io/fastpose_html/) to capture hum
 </details>
 
 ### Camera Trcking Mode
-[to be finished]
+This mode is designed for "Human Pose Control", since one can no longer modify view directions by mouse. To use this mode, check the "Track Velocity" box in "Camera" hidden menu. Then, the window view will change following the velocity direction.
+
+
 ### External Terrain Object Loading
-[to be finished]
+To run motion matching with different terrains, open the "Ground" hidden men. Select from the drop down menu of "Terrain".
+
+
+
 ## Acknowledgement
 This project was undertaken as part of the 2023HS digital human course at ETH Zurich. We would like to express our sincere appreciation for the valuable guidance and support provided by our supervisor, [Dongho Kang](https://donghok.me/).
