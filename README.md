@@ -97,7 +97,6 @@ Basic Square terrain
 
 
 https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/assets/61586121/90cc8411-9235-4ab9-8fb5-e61047d1c877
-https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/assets/61586121/90cc8411-9235-4ab9-8fb5-e61047d1c877
 
 
 
