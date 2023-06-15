@@ -76,9 +76,9 @@ To start the motion matching, you should press the space key after the applicati
 
 ### Drawed Trajectory
 
-  ![](./resource/img/draw.png)
-
 When checking the `Paint trajectory` box in the application UI, we can use mouse to draw a trajectory on the ground. Once paint a trajectory, uncheck the `Paint trajectory` box. Press any 'W, A, S, D' key to give the character an initial speed. Now keyboard control will be disabled, but you can still press "shift" to run. The character will follow a straight line to the nearest dot on the trajectory, and start following the whole trajectory. Once reaching the end, it will go straight back to the start point and do another round. To disable the trajectory control mode, click on the `Clear Painting` button and then you can turn back to keyboard control again.
+
+![](./resource/img/draw.png)
 
 <details>
   <summary>[Demo for drawed trajectory (click to expand)]</summary>
