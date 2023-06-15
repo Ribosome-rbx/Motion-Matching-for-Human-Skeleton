@@ -18,7 +18,10 @@
 <br>
 
 
-![](./resource/gif/logo.gif)
+<div style="display: flex; justify-content: center;">
+  <img src="./resource/gif/logo.gif" alt="Logo" />
+</div>
+
 
 
 <details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-style: solid; border-width: 1px;'>
