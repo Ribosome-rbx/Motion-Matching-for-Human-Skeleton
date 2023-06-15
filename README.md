@@ -83,5 +83,24 @@ We utilized [FastPose](https://drnoodle.github.io/fastpose_html/) to capture hum
 [to be finished]
 ### External Terrain Object Loading
 [to be finished]
+
+## Example Demos
+Basic Square terrain
+
+
+<img align="center"  src="./resource/white_walk.gif" width="150">
+<img align="center"  src="./resource/white_run.gif" width="150">
+<img align="center"  src="./resource/white_creep.gif" width="150">
+<img align="center"  src="./resource/white_dance.gif" width="150">
+
+Forrest terrain
+
+<img align="center"  src="./resource/forest_walk.gif" width="150">
+<img align="center"  src="./resource/forest_run.gif" width="150">
+<img align="center"  src="./resource/forest_jump.gif" width="150">
+<img align="center"  src="./resource/forest_creep.gif" width="150">
+
+
+
 ## Acknowledgement
 This project was undertaken as part of the 2023HS digital human course at ETH Zurich. We would like to express our sincere appreciation for the valuable guidance and support provided by our supervisor, [Dongho Kang](https://donghok.me/).
