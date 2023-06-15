@@ -46,9 +46,6 @@
 
 ## Compilation
 The program is easy to compile using Visual Studio Code and CMake. 
-```diff
-Please remember to compile using `Release Mode`, problems may occur under `Debug Mode`
-```
 
 ```
 git clone https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton.git
