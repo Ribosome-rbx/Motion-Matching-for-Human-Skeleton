@@ -10,7 +10,7 @@
     <a href="https://github.com/Milkiananas"><strong>Hang Yin*</strong></a>
   </p>
   <p align="center"><strong>(* Equal Contribution)</strong></p>
-  <h3 align="center"><a href="https://youtube.com/playlist?list=PLUffCQyBEYtYXr-pVqqUgSG1Ncxp4UzAb">Demo Videos</a> | <a href="">Report</a> | <a href="https://docs.google.com/presentation/d/13Kz_PvJAkfzi9m_gFjUCRpPG92N0RBROceEzudvjc8I/edit?usp=sharing">Slides</a></h3>
+  <h3 align="center"><a href="https://youtube.com/playlist?list=PLUffCQyBEYtYXr-pVqqUgSG1Ncxp4UzAb">Demo Videos</a> | <a href="https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/tree/main/resource/TEAM_6_Report.pdf">Report</a> | <a href="https://docs.google.com/presentation/d/13Kz_PvJAkfzi9m_gFjUCRpPG92N0RBROceEzudvjc8I/edit?usp=sharing">Slides</a></h3>
   <div align="center"></div>
 </p>
 <p align="center">
