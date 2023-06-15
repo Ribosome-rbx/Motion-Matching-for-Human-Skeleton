@@ -30,6 +30,9 @@
       <a href="#functionalities">Functionalities</a>
     </li>
     <li>
+      <a href="#example-demos">Example Demos</a>
+    </li>
+    <li>
       <a href="#acknowledgement">Acknowledgement</a>
     </li>
   </ol>
@@ -55,11 +58,13 @@ Users can control the digital character using keyboard control, drawed trajector
 ### Keyboard Control
 |Keys|Actions|
 |:-:|:-:|
-|W, S, A, D|controll the character's movement in different directions|
+|W, S, A, D|controll the character's movement in eight directions (W, S, A, D, W+A, W+D, S+A, S+D)|
+|up arrow key↑, down arrow key↓|increase, decrease the forward speed|
 |Shift|sprint|
 |J|jump|
 |C|crawl|
 |P|dance|
+|Space|Pause Program|
 
 ### Drawed Trajectory
 When checking the `Paint trajectory` box in the application UI, we can use mouse to draw a trajectory on the ground. Once paint a trajectory, keyboard control will be disabled, while you can still press "shift" to run. Then the character will follow a straight line to the nearest dot on the trajectory, and start following the whole trajectory. Once reaching the end, it will go straight back to the start point and do another round. To disable the trajectory control mode, click on the `Clear Painting` button and then you can turn back to keyboard control again.
@@ -86,9 +91,6 @@ This mode is designed for "Human Pose Control", since one can no longer modify v
 ### External Terrain Object Loading
 To run motion matching with different terrains, open the "Ground" hidden menu. Select from the drop down menu of "Terrain".
 ![](https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/tree/main/resource/img/terrain.png)
-
-
-
 
 ## Example Demos
 Basic Square terrain
