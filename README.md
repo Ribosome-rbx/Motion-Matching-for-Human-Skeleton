@@ -86,19 +86,25 @@ We utilized [FastPose](https://drnoodle.github.io/fastpose_html/) to capture hum
 
 ## Example Demos
 Basic Square terrain
+| walk |  run  | creep | dance|
+| :------------------------------: |:------------------------------: |:-----------------------------------------------: | :-----------------------------------------------: |
+|<img align="center"  src="./resource/white_walk.gif" width="150">| <img align="center"  src="./resource/white_run.gif" width="150">|<img align="center"  src="./resource/white_creep.gif" width="150"> | <img align="center"  src="./resource/white_dance.gif" width="150">|
 
-
-<img align="center"  src="./resource/white_walk.gif" width="150">
+<!-- <img align="center"  src="./resource/white_walk.gif" width="150">
 <img align="center"  src="./resource/white_run.gif" width="150">
 <img align="center"  src="./resource/white_creep.gif" width="150">
-<img align="center"  src="./resource/white_dance.gif" width="150">
+<img align="center"  src="./resource/white_dance.gif" width="150"> -->
 
 Forrest terrain
 
-<img align="center"  src="./resource/forest_walk.gif" width="150">
+| walk |  run  | creep | jump|
+| :------------------------------: |:------------------------------: |:-----------------------------------------------: | :-----------------------------------------------: |
+|<img align="center"  src="./resource/forest_walk.gif" width="150">| <img align="center"  src="./resource/forest_run.gif" width="150">|<img align="center"  src="./resource/forest_creep.gif" width="150">| <img align="center"  src="./resource/forest_jump.gif" width="150">|
+
+<!-- <img align="center"  src="./resource/forest_walk.gif" width="150">
 <img align="center"  src="./resource/forest_run.gif" width="150">
 <img align="center"  src="./resource/forest_jump.gif" width="150">
-<img align="center"  src="./resource/forest_creep.gif" width="150">
+<img align="center"  src="./resource/forest_creep.gif" width="150"> -->
 
 
 
