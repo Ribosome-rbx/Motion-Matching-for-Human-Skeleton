@@ -78,7 +78,7 @@ When checking the `Paint trajectory` box in the application UI, we can use mouse
 <details>
   <summary>[Demo for drawed trajectory (click to expand)]</summary>
 
-  ![](https://github.com/Ribosome-rbx/otion-Matching-for-Human-Skeleton/tree/main/resource/gif/draw_line.gif)
+  ![](./resource/gif/draw_line.gif)
 
 </details>
 
@@ -90,7 +90,7 @@ We utilized [FastPose](https://drnoodle.github.io/fastpose_html/) to capture hum
 <details>
   <summary>[Demo for human pose control (click to expand)]</summary>
 
-  ![](https://github.com/Ribosome-rbx/otion-Matching-for-Human-Skeleton/tree/main/resource/gif/pose.gif)
+  ![](./resource/gif/pose.gif)
 
 </details>
 
@@ -121,7 +121,7 @@ Basic Square terrain
 <img align="center"  src="./resource/white_creep.gif" width="150">
 <img align="center"  src="./resource/white_dance.gif" width="150"> -->
 
-Forrest terrain
+Forest terrain
 
 | walk |  run  |
 | :------------------------------: |:------------------------------: |
