@@ -10,7 +10,7 @@
     <a href="https://github.com/Milkiananas"><strong>Hang Yin*</strong></a>
   </p>
   <p align="center"><strong>(* Equal Contribution)</strong></p>
-  <h3 align="center"><a href="https://youtube.com/playlist?list=PLUffCQyBEYtYXr-pVqqUgSG1Ncxp4UzAb">Demo Videos</a> | <a href="">Report</a> | <a href="https://docs.google.com/presentation/d/13Kz_PvJAkfzi9m_gFjUCRpPG92N0RBROceEzudvjc8I/edit?usp=sharing">Slides</a></h3>
+  <h3 align="center"><a href="https://youtube.com/playlist?list=PLUffCQyBEYtYXr-pVqqUgSG1Ncxp4UzAb">Demo Videos</a> | <a href="https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/tree/main/resource/TEAM_6_Report.pdf">Report</a> | <a href="https://docs.google.com/presentation/d/13Kz_PvJAkfzi9m_gFjUCRpPG92N0RBROceEzudvjc8I/edit?usp=sharing">Slides</a></h3>
   <div align="center"></div>
 </p>
 <p align="center">
@@ -84,16 +84,21 @@ This mode is designed for "Human Pose Control", since one can no longer modify v
 
 
 ### External Terrain Object Loading
-To run motion matching with different terrains, open the "Ground" hidden men. Select from the drop down menu of "Terrain".
+To run motion matching with different terrains, open the "Ground" hidden menu. Select from the drop down menu of "Terrain".
 
 
 
 
 ## Example Demos
 Basic Square terrain
-| walk |  run  | creep | dance|
+<!-- | walk |  run  | creep | dance|
 | :------------------------------: |:------------------------------: |:-----------------------------------------------: | :-----------------------------------------------: |
-|<img align="center"  src="./resource/white_walk.gif" width="150">| <img align="center"  src="./resource/white_run.gif" width="150">|<img align="center"  src="./resource/white_creep.gif" width="150"> | <img align="center"  src="./resource/white_dance.gif" width="150">|
+|<img align="center"  src="./resource/white_walk.gif" width="150">| <img align="center"  src="./resource/white_run.gif" width="150">|<img align="center"  src="./resource/white_creep.gif" width="150"> | <img align="center"  src="./resource/white_dance.gif" width="150">| -->
+
+
+https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/assets/61586121/90cc8411-9235-4ab9-8fb5-e61047d1c877
+
+
 
 <!-- <img align="center"  src="./resource/white_walk.gif" width="150">
 <img align="center"  src="./resource/white_run.gif" width="150">
