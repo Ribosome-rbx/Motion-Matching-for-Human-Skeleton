@@ -97,12 +97,12 @@ We utilized [FastPose](https://drnoodle.github.io/fastpose_html/) to capture hum
 ### Camera Trcking Mode
 This mode is designed for "Human Pose Control", since one can no longer modify view directions by mouse. To use this mode, check the "Track Velocity" box in "Camera" hidden menu. Then, the window view will change following the velocity direction.
 
-![](https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/tree/main/resource/img/camera.png)
+![](./resource/img/camera.png)
 
 ### External Terrain Object Loading
 To run motion matching with different terrains, open the "Ground" hidden menu. Select from the drop down menu of "Terrain".
 
-![](https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton/tree/main/resource/img/terrain.png)
+![](./resource/img/terrain.png)
 
 ## Example Demos
 Basic Square terrain
