@@ -48,8 +48,8 @@
 The program is easy to compile using Visual Studio Code and CMake.
 
 ```
-git clone https://github.com/Ribosome-rbx/motion-matching-demo.git
-cd motion-matching-demo
+git clone https://github.com/Ribosome-rbx/Motion-Matching-for-Human-Skeleton.git
+cd Motion-Matching-for-Human-Skeleton
 mkdir build
 cd build
 cmake ..
