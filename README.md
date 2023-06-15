@@ -55,19 +55,21 @@ Note that we will fetch repo [https://github.com/guo-han/motion-matching](https:
 The dataset we used for constructing matching database is [LAFAN1](https://github.com/ubisoft/ubisoft-laforge-animation-dataset). But you do not need to redownload and process the dataset yourself. All necessary data have been added into this directory under the `/data` folder.
 ## Functionalities
 Users can control the digital character using keyboard control, drawed trajectory or human pose input from camera. Details are elaborated below.
+
+To start the motion matching, you should press the space key after the application is ready.
 ### Keyboard Control
 |Keys|Actions|
 |:-:|:-:|
-|W, S, A, D|controll the character's movement in eight directions (W, S, A, D, W+A, W+D, S+A, S+D)|
-|up arrow key↑, down arrow key↓|increase, decrease the forward speed|
-|Shift|sprint|
-|J|jump|
-|C|crawl|
-|P|dance|
-|Space|Pause Program|
+|W, S, A, D, <br>W+A, W+D, S+A, S+D|controll the character's movement in eight directions <br> once keys pressed, the character will move along the given direction|
+|up arrow key↑, <br> down arrow key↓|increase, decrease the forward speed <br> the speed willl increase/decrease by 0.3 every time the key is pressed|
+|left Shift|sprint<br> once key pressed, the character starts dashing; once key released, it will return to normal speed|
+|J|jump<br> once key pressed, the character jumps; once key released, the character stops jumping|
+|C|creep<br> once key pressed, the character creeps; once key released, the character stops creeping|
+|P|dance<br> once key pressed, the character starts dancing; when the key is pressed again, the character stops dancing|
+|Space|Pause/Start Program|
 
 ### Drawed Trajectory
-When checking the `Paint trajectory` box in the application UI, we can use mouse to draw a trajectory on the ground. Once paint a trajectory, keyboard control will be disabled, while you can still press "shift" to run. Then the character will follow a straight line to the nearest dot on the trajectory, and start following the whole trajectory. Once reaching the end, it will go straight back to the start point and do another round. To disable the trajectory control mode, click on the `Clear Painting` button and then you can turn back to keyboard control again.
+When checking the `Paint trajectory` box in the application UI, we can use mouse to draw a trajectory on the ground. Once paint a trajectory, uncheck the `Paint trajectory` box. Press any 'W, A, S, D' key to give the character an initial speed. Now keyboard control will be disabled, but you can still press "shift" to run. The character will follow a straight line to the nearest dot on the trajectory, and start following the whole trajectory. Once reaching the end, it will go straight back to the start point and do another round. To disable the trajectory control mode, click on the `Clear Painting` button and then you can turn back to keyboard control again.
 
 <details>
   <summary>[Demo for drawed trajectory (click to expand)]</summary>
@@ -89,7 +91,7 @@ This mode is designed for "Human Pose Control", since one can no longer modify v
 
 
 ### External Terrain Object Loading
-To run motion matching with different terrains, open the "Ground" hidden menu. Select from the drop down menu of "Terrain".
+To run motion matching with different terrains, open the `Ground` hidden menu. Select from the drop down menu of `Show Terrain`.
 
 ## Example Demos
 Basic Square terrain
