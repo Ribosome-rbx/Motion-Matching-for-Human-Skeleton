@@ -17,10 +17,9 @@
 </p>
 <br>
 
-
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img src="./resource/gif/logo.gif" alt="Logo" />
-</div>
+</p>
 
 
 
