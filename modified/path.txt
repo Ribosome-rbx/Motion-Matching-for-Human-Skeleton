@@ -1,0 +1,6 @@
+./build/_deps/motion-matching-src/src/libs/mocap/src/MocapUtils.cpp
+./build/_deps/motion-matching-src/src/libs/mocap/src/BvhParser.cpp
+./build/_deps/motion-matching-src/src/libs/mocap/src/BvhJoint.cpp
+./build/_deps/motion-matching-src/src/libs/mocap/include/mocap/MocapUtils.h
+./build/_deps/motion-matching-src/src/libs/mocap/include/mocap/MocapClip.h
+./build/_deps/motion-matching-src/src/libs/mocap/include/mocap/bvh/BvhJoint.h
